@@ -1,0 +1,6 @@
+{
+  "name": "ENTITY AI · Business Entity Resolution Platform",
+  "description": "Enterprise AI analytics platform for multi-source business entity resolution, multi-stage blocking, Random Forest classification, and F0.5 optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
